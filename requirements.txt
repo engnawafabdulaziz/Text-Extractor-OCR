@@ -1,0 +1,21 @@
+# To run your project, you need to install the required libraries using the pip package manager. You can copy and paste the following commands to install all the necessary libraries:
+         
+        #    pip install tkinter
+        #    pip install easyocr
+        #    pip install pytesseract
+        #    pip install pillow
+        #    pip install pdf2image
+
+
+# ============ Additional Steps:============
+#         1- Install Tesseract OCR:
+#            If you don't have Tesseract OCR installed, download and install it:
+#                    https://github.com/tesseract-ocr/tesseract
+
+#          2-After installing, make sure to add the path to Tesseract to your PATH environment variable.
+
+#          3-Add your translation and weather API key:
+#          You will need to create a file called key.py that contains your API key variable as follows
+ 
+#          4-Testing the Code:
+#            After installing all the libraries and configuring the settings, run the code and test each feature to ensure it works properly.
